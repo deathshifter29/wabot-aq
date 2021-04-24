@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "JOCKER BOT",
   "version": "1.6.0",
-  "description": "Customizable WhatsApp Bot",
+  "description": "JOCKER WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/deathshifter29/wabot-aq",
   "author": {
     "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "https://github.com/deathshifter29/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/deathshifter29/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
